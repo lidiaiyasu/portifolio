@@ -1,4 +1,3 @@
-// script.js - extracted from index.html
 
 // Mobile menu toggle
 const hamburger = document.querySelector('.hamburger');
